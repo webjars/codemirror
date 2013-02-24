@@ -1,5 +1,5 @@
-WebJar for [Library]
+WebJar for CodeMirror
 
 More info: http://webjars.org
 
-Upstream: [Library URL]
+Upstream: http://codemirror.net/
