@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>codemirror</artifactId>
-    <version>3.1-SNAPSHOT</version>
+    <version>3.11-SNAPSHOT</version>
     <name>CodeMirror</name>
     <description>WebJar for CodeMirror</description>
     <url>http://webjars.org</url>
@@ -41,7 +41,7 @@
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>3.1</upstream.version>
+        <upstream.version>3.11</upstream.version>
         <upstream.url>http://codemirror.net/</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstream.version}</destDir>
     </properties>
