@@ -7,7 +7,7 @@
         <artifactId>oss-parent</artifactId>
         <version>7</version>
     </parent>
-    
+
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>codemirror</artifactId>
@@ -38,10 +38,10 @@
         <developerConnection>scm:git:https://github.com/webjars/codemirror.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
-    
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>5.12</upstream.version>
+        <upstream.version>5.13</upstream.version>
         <upstream.url>http://codemirror.net/</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstream.version}</destDir>
         <requirejs>
